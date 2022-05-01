@@ -6,4 +6,4 @@ html. I will show that I can...
 -Give a website multiple/different paragraphs
 -Include pictures and links to other webpages/other websites
 -Use unordered and ordered lists
--Utilize the <strong> and <em> commands to enrich text
+-Utilize the strong and em commands to enrich text
