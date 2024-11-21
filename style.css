@@ -1,0 +1,24 @@
+.title{
+    text-align: center;
+    background-color: blue;
+    color:white;
+}
+
+.list{
+    font-size: 28px;
+    color:blue;
+    font-family: sans-serif;
+
+}
+
+#mac{
+    background-color: orange;
+}
+
+#chicken{
+    background-color: gold;
+}
+
+#po{
+    background-color:grey
+}
